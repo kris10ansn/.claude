@@ -60,6 +60,16 @@
       "pluginName": "mattpocock-skills",
       "installedAt": "2026-06-20T11:59:38.917Z",
       "updatedAt": "2026-06-20T11:59:38.917Z"
+    },
+    "domain-modeling": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/engineering/domain-modeling/SKILL.md",
+      "skillFolderHash": "028a0e44b23909cbdd715aa00546d5c1c46ae4d6",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-06-20T12:40:11.366Z",
+      "updatedAt": "2026-06-20T12:40:11.366Z"
     }
   },
   "dismissed": {
